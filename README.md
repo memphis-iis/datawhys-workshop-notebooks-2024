@@ -10,7 +10,7 @@ Furthermore, participants will engage in hands-on experience with machine learni
 
 ## Content Outline:
 
-- [Data Science Descriptive Data Analysis](https://github.com/memphis-iis/datawhys-workshop-notebooks-2024/blob/main/Data_science_Descriptive_Data_Analysis.ipynb)
-- [Regressors: Linear Regression](https://github.com/memphis-iis/datawhys-workshop-notebooks-2024/blob/main/Regressors.ipynb)
-- [Classifiers: Logistic Regression](https://github.com/memphis-iis/datawhys-workshop-notebooks-2024/blob/main/Classifiers.ipynb)
+- [Data Science Descriptive Data Analysis](Data_science_Descriptive_Data_Analysis.ipynb)
+- [Regressors: Linear Regression](Regressors.ipynb)
+- [Classifiers: Logistic Regression](Classifiers.ipynb)
 
